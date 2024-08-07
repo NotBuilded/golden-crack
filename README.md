@@ -10,5 +10,3 @@
 # How?
 - rogold checks if you own a gamepass, if you own, the freature unlocks.
 - so just change the gamepass ids in source code, and done.
-
-## cracker: me
